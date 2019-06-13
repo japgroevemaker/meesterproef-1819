@@ -69,6 +69,7 @@ Aan het eind van het project vragen we de klant feedback op het geleverde werk..
 
 # OBA Date
 ## leerdoelen
+
 | Vak | Doel   |
 | ------ | ------ |
 | _GitHub_ | Leren hoe optimaal samen te werken aan een project op GitHub. |
@@ -77,7 +78,9 @@ Aan het eind van het project vragen we de klant feedback op het geleverde werk..
 | _Web Design_ | Een functioneel EN mooi design maken. |
 | _Real Time Web_ | Een database implementeren en de syntax begrijpen. |
 
+
 ## Vak rubrics
+
 | Vak | Doel   | cirteria  |
 | ------ | ------ | ------ |
 | _Web App From Scratch_ | Data ophalen, manipuleren en tonen. | JSON data kan, minimaal met de methodes: map, filter en reduce worden gemanipuleerd |
@@ -85,7 +88,9 @@ Aan het eind van het project vragen we de klant feedback op het geleverde werk..
 | _Browser Technologies_ | Browser technologies onderzoeken en implementeren als enhancement. | Student heeft de core functionality van een use case goed begrepen. Er is een wireflow en/of breakdown-schets gemaakt. |
 | | Browser technologies onderzoeken en implementeren als enhancement. | Toegankelijkheid: de user experience is goed. |
 | _Web Design_ | Leren hoe je principles in een ontwerp kan toepassen. | Student kan uitleggen wat (interface)(design) principles zijn |
-
+| | Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp. _(samen met Stan)_ | Er zijn verschillende tests gedaan en verwerkt om het ontwerp te verbeteren. |
+| _Performance Matters_ | Je begrijpt hoe een Service Worker werkt en kan deze in jouw applicatie op een nuttige wijze implementeren _(samen met Stan)_  | Er is een service worker geimplementeerd. Enkele statische bestanden worden gecached en geserveerd door de service worker. |
+| _CSS to the rescue(bonus)_ | The student understands the interactive parts of CSS. | Is interactivity enhanced within a given CSS scope?. |
 
 ## Week 1
 ###### Maandag 3/6/'19
