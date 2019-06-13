@@ -77,6 +77,15 @@ Aan het eind van het project vragen we de klant feedback op het geleverde werk..
 | _Web Design_ | Een functioneel EN mooi design maken. |
 | _Real Time Web_ | Een database implementeren en de syntax begrijpen. |
 
+## Vak rubrics
+| Vak | Doel   | cirteria  |
+| ------ | ------ | ------ |
+| _Web App From Scratch_ | Data ophalen, manipuleren en tonen. | JSON data kan, minimaal met de methodes: map, filter en reduce worden gemanipuleerd |
+| | States en routes afhandelen | De user flow en object/class flow zijn visueel gemaakt |
+| _Browser Technologies_ | Browser technologies onderzoeken en implementeren als enhancement. | Student heeft de core functionality van een use case goed begrepen. Er is een wireflow en/of breakdown-schets gemaakt. |
+| | Browser technologies onderzoeken en implementeren als enhancement. | Toegankelijkheid: de user experience is goed. |
+| _Web Design_ | Leren hoe je principles in een ontwerp kan toepassen. | Student kan uitleggen wat (interface)(design) principles zijn |
+
 
 ## Week 1
 ###### Maandag 3/6/'19
