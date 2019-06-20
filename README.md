@@ -68,20 +68,43 @@ Dat hoort erbij en daar leer je van.
 Aan het eind van het project vragen we de klant feedback op het geleverde werk...  -->
 
 # OBA Date
-## leerdoelen
+
+## Inhoud
+* **[Over mij](#Over mij)**
+* **[Minor](#minor)**
+* **[Meesterproef](#meesterproef)**
+* **[leerdoelen](#Persoonlijke leerdoelen)**
+* **[Rubrics](#Vak rubrics)**
+* **[Casus](#casus)**
+* **[User requirements](#user-requirements)**
+* **[Features](#features)**
+* **[Hoe heb ik leerdoelen gekoppeld aan rubrics](#leerdoelen-rubrics)**
+* **[Product biografie](#product-biografie)**
+* **[Conclusie](#conclusie)**
+
+## Over mij
+Ik ben Joep Gravemaker, geboren en getogen in IJmuiden. Na mijn opleiding als grafisch vormgever te hebben afgerond, wilde ik meer. Ik was opzoek naar een nieuwe uitdaging, en deze heb ik gevonden in web-development. Ik vind het leukst om met zowel technisch als vormgeven bezig te zijn. Ik probeer me daarom ook zo goed mogelijk neer te zetten als frontend developer. Ik heb nog veel te leren, maar ik ben en blijf gretig.
+
+## Minor
+In de minor web development wordt je uitgedaagd en klaar gestoomd voor de wereld van front en backend. Omdat de wereld van het web bijna dagelijks innoveert, is het onmogelijk alle facette binnen 4 maanden onder de knie te krijgen. Maar een goede basis wordt tijdens deze minor gelegd zodat je jezelf in de verdere toekomst kan ontplooien tot bijvoorbeeld frontend developer.
+
+## Meesterproef
+De meesterproef, na dat je alle vakken binnen de minor, CSS to the Rescue, Web app from scratch, Browser technologies, Performance matters, Real time web en Webdesign met een voldoende hebt afgesloten, is het tijd voor de meesterproef. In de meesterproef ga je werken aan een opdracht van een "echte" opdrachtgever en laat je verschillende competenties die je de afgelopen maanden eigen hebt gemaakt. Met de meesterproef toon je eigenlijk aan dat je de afgelopen maanden de lesstof voldoende tot je genomen hebt en deze in de praktijk kan toepassen.
+
+## Persoonlijke leerdoelen
+Wat wil ik tijdens deze meesterproef leren? Wat wil ik er uit halen? Waar kan ik mezelf nog in verbeteren? Allemaal vragen die ik heb meegenomen tijdens het samenstellen van mijn persoonlijke leerdoelen.  
 
 | Vak | Doel   |
 | ------ | ------ |
 | _GitHub_ | Leren hoe optimaal samen te werken aan een project op GitHub. |
 | _CSS To The Rescue_ | Mooie, vloeiende en nuttige transitions maken. |
-| _Browser Technologies_ | Applicatie volledig toetsenbord vriendelijk maken. |
 | _Web Design_ | Een functioneel EN mooi design maken. |
 | _Real Time Web_ | Een database implementeren en de syntax begrijpen. |
 
-
 ## Vak rubrics
+Aan de hand van de casus heb ik een aantal vak rubrics vastgesteld die mij ik kan implementeren om zo de opdracht tot een goed einde te brengen.
 
-| Vak | Doel   | cirteria  |
+| Vak | Doel | cirteria  |
 | ------ | ------ | ------ |
 | _Web App From Scratch_ | Data ophalen, manipuleren en tonen. | JSON data kan, minimaal met de methodes: map, filter en reduce worden gemanipuleerd |
 | | States en routes afhandelen | De user flow en object/class flow zijn visueel gemaakt |
@@ -91,6 +114,28 @@ Aan het eind van het project vragen we de klant feedback op het geleverde werk..
 | | Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp. _(samen met Stan)_ | Er zijn verschillende tests gedaan en verwerkt om het ontwerp te verbeteren. |
 | _Performance Matters_ | Je begrijpt hoe een Service Worker werkt en kan deze in jouw applicatie op een nuttige wijze implementeren _(samen met Stan)_  | Er is een service worker geimplementeerd. Enkele statische bestanden worden gecached en geserveerd door de service worker. |
 | _CSS to the rescue(bonus)_ | The student understands the interactive parts of CSS. | Is interactivity enhanced within a given CSS scope?. |
+
+## Casus
+Als opdrachtgever heb ik voor de OBA gekozen. De opdrachtbeschrijving van de OBA luidde als volgt:
+
+<i>
+Ontmoeten en samenkomen is een belangrijke functie binnen de OBA. Meer en meer worden OBA-vestigingen gebruikt om samen te overleggen, leren en studeren. We willen graag onze bezoekers faciliteren in het ontmoeten en het verleiden om te ontmoeten, leren en te studeren.
+</i>
+
+Bij deze opdrachtbeschrijving zaten ook nog een aantal user stories. Ik heb ervoor gekozen mij te focussen op de zogenaamde Client to Client user story. Deze luidde als volgt:
+
+<i>
+Als bezoeker wil ik een vraag kunnen stellen en weten of er andere bezoekers zijn die mijn interesse delen en graag willen sparren, overleggen, praten of bijvoorbeeld koffie willen drinken.
+</i>
+
+<i>
+Als bezoeker wil ik aanbieden dat ik bepaalde kennis heb en deze graag deel en/of zou willen sparren, overleggen, praten of bijvoorbeeld koffie drinken.
+</i>
+
+## Gebruikers van de app
+Dit zijn over het algemeen bezoekers van de OBA die opzoek zijn naar iets en dat kenbaar willen maken naar de buitenwereld. Wat past er nou precies in het profiel van de "bezoeker van de OBA"?
+
+Dit omvat een grote groep met een enorme diversiteit. Er zijn leergiere bezoekers, onderzoekende bezoekers, bezoekers die voor ontspanning komen etc. Daarnaast is er ook een grote diversiteit als het gaat om cultuur. 
 
 ## Week 1
 ###### Maandag 3/6/'19
