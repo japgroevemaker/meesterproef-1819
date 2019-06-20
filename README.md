@@ -70,11 +70,11 @@ Aan het eind van het project vragen we de klant feedback op het geleverde werk..
 # OBA Date
 
 ## Inhoud
-* **[Over mij](#Over mij)**
+* **[Over mij](#Over-mij)**
 * **[Minor](#minor)**
 * **[Meesterproef](#meesterproef)**
-* **[leerdoelen](#Persoonlijke leerdoelen)**
-* **[Rubrics](#Vak rubrics)**
+* **[leerdoelen](#Persoonlijke-leerdoelen)**
+* **[Rubrics](#Vak-rubrics)**
 * **[Casus](#casus)**
 * **[User requirements](#user-requirements)**
 * **[Features](#features)**
@@ -135,7 +135,7 @@ Als bezoeker wil ik aanbieden dat ik bepaalde kennis heb en deze graag deel en/o
 ## Gebruikers van de app
 Dit zijn over het algemeen bezoekers van de OBA die opzoek zijn naar iets en dat kenbaar willen maken naar de buitenwereld. Wat past er nou precies in het profiel van de "bezoeker van de OBA"?
 
-Dit omvat een grote groep met een enorme diversiteit. Er zijn leergiere bezoekers, onderzoekende bezoekers, bezoekers die voor ontspanning komen etc. Daarnaast is er ook een grote diversiteit als het gaat om cultuur. 
+Dit omvat een grote groep met een enorme diversiteit. Er zijn leergiere bezoekers, onderzoekende bezoekers, bezoekers die voor ontspanning komen etc. Daarnaast is er ook een grote diversiteit als het gaat om cultuur.
 
 ## Week 1
 ###### Maandag 3/6/'19
