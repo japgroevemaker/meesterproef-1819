@@ -137,6 +137,39 @@ Dit zijn over het algemeen bezoekers van de OBA die opzoek zijn naar iets en dat
 
 Dit omvat een grote groep met een enorme diversiteit. Er zijn leergiere bezoekers, onderzoekende bezoekers, bezoekers die voor ontspanning komen etc. Daarnaast is er ook een grote diversiteit als het gaat om cultuur.
 
+## User requirements
+
+- <strong>De gebruiker moet een bericht kunnen aanmaken</strong><br>
+De gebruiker moet een bericht kunnen aanmaken waarin hij/zij kenbaar maakt wat hij/zij graag zou willen doen.
+
+- <strong>De gebruiker moet door al eerder geplaatste berichten kunnen scrollen</strong><br>
+Eerder geplaatste berichten moeten worden getoond op het prikbord.
+
+- <strong>De gebruiker moet onder een bestaand bericht kunnen reageren</strong><br>
+Als een gebruiker bijvoorbeeld kenbaar wil maken dat hij/zij de auter van het bericht een handje wil helpen, moet de gebruiker onder dit bericht kunnen reageren.
+
+- <strong>De gebruiker moet doormiddel van gebruik van de app in contact kunnen komen met andere gebruikers</strong><br>
+Het gebruik van de applicatie moet als gewenste resultaat tot een afspraak leiden.
+
+- <strong>Een moderator moet een oogje in het zeil kunnen houden</strong><br>
+Een moderator moet kunnen checken of alles op de app netjes verloopt.
+
+## Features
+- <strong>Genereren en plaatsen van een bericht</strong><br>
+Er moet een bericht kunnen worden gegenereerd die vervolgens op een prikbord geplaatst kan worden.
+
+- <strong>Berichten moeten worden opgeslagen op een database</strong><br>
+Om eerder geplaatste berichten te kunnen tonen, moeten deze worden opgeslagen op een database.
+
+- <strong>Bestaande berichten moeten worden opgehaald en op de index getoond kunnen worden</strong><br>
+Bestaande berichten van eerdere gebruikers moeten kunnen worden getoond
+
+- <strong>Gebruikers moeten zichzelf kenbaar kunnen maken om zo een tijdgebonden sessie te creeeren</strong><br>
+Gebruikers maken zichzelf kenbaar door een foto te uploaden en een naam te definieren. Deze worden doormiddel van een sessie en cookies tijdelijk opgeslagen.
+
+
+
+
 ## Week 1
 ###### Maandag 3/6/'19
 Omdat ik door omstandigheden een week later dan de rest kon beginnen heb ik op de zaken vooruit gelopen door adhv de caseomschrijving een concept te maken. Deze heb ik op de 1e ontmoeting met onze opdrachtgever, Mark Vos, gepresenteerd. Het concept luidde als volgt:
