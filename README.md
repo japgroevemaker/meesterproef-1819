@@ -74,13 +74,12 @@ Aan het eind van het project vragen we de klant feedback op het geleverde werk..
 * **[Minor](#minor)**
 * **[Meesterproef](#meesterproef)**
 * **[leerdoelen](#Persoonlijke-leerdoelen)**
-* **[Rubrics](#Vak-rubrics)**
 * **[Casus](#casus)**
 * **[User requirements](#user-requirements)**
 * **[Features](#features)**
 * **[Hoe heb ik leerdoelen gekoppeld aan rubrics](#leerdoelen-rubrics)**
 * **[Product biografie](#product-biografie)**
-* **[Conclusie](#conclusie)**
+* **[Reflectie](#reflectie)**
 
 ## Over mij
 Ik ben Joep Gravemaker, geboren en getogen in IJmuiden. Na mijn opleiding als grafisch vormgever te hebben afgerond, wilde ik meer. Ik was opzoek naar een nieuwe uitdaging, en deze heb ik gevonden in web-development. Ik vind het leukst om met zowel technisch als vormgeven bezig te zijn. Ik probeer me daarom ook zo goed mogelijk neer te zetten als frontend developer. Ik heb nog veel te leren, maar ik ben en blijf gretig.
@@ -92,28 +91,17 @@ In de minor web development wordt je uitgedaagd en klaar gestoomd voor de wereld
 De meesterproef, na dat je alle vakken binnen de minor, CSS to the Rescue, Web app from scratch, Browser technologies, Performance matters, Real time web en Webdesign met een voldoende hebt afgesloten, is het tijd voor de meesterproef. In de meesterproef ga je werken aan een opdracht van een "echte" opdrachtgever en laat je verschillende competenties die je de afgelopen maanden eigen hebt gemaakt. Met de meesterproef toon je eigenlijk aan dat je de afgelopen maanden de lesstof voldoende tot je genomen hebt en deze in de praktijk kan toepassen.
 
 ## Persoonlijke leerdoelen
-Wat wil ik tijdens deze meesterproef leren? Wat wil ik er uit halen? Waar kan ik mezelf nog in verbeteren? Allemaal vragen die ik heb meegenomen tijdens het samenstellen van mijn persoonlijke leerdoelen.  
+Wat wil ik tijdens deze meesterproef leren? Wat wil ik er uit halen? Waar kan ik mezelf nog in verbeteren? Allemaal vragen die ik heb meegenomen tijdens het samenstellen van mijn persoonlijke leerdoelen. Deze doelen heb ik aan de hand van de rubrics van de vakken binnen de minor samengesteld.
 
 | Vak | Doel   |
 | ------ | ------ |
+| _WAFS_ | De code bevat geen syntaxfouten en is netjes opgemaakt|
 | _GitHub_ | Leren hoe optimaal samen te werken aan een project op GitHub. |
-| _CSS To The Rescue_ | Mooie, vloeiende en nuttige transitions maken. |
-| _Web Design_ | Een functioneel EN mooi design maken. |
+| _CSS To The Rescue_ | Je kan laten zien dat CSS gebruikt kan worden voor meer dan het stijlen van een pagina |
+| _Web Design_ | Leren hoe je principles in een ontwerp kan toepassen. |
+| | Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp. |
 | _Real Time Web_ | Een database implementeren en de syntax begrijpen. |
 
-## Vak rubrics
-Aan de hand van de casus heb ik een aantal vak rubrics vastgesteld die mij ik kan implementeren om zo de opdracht tot een goed einde te brengen.
-
-| Vak | Doel | cirteria  |
-| ------ | ------ | ------ |
-| _Web App From Scratch_ | Data ophalen, manipuleren en tonen. | JSON data kan, minimaal met de methodes: map, filter en reduce worden gemanipuleerd |
-| | States en routes afhandelen | De user flow en object/class flow zijn visueel gemaakt |
-| _Browser Technologies_ | Browser technologies onderzoeken en implementeren als enhancement. | Student heeft de core functionality van een use case goed begrepen. Er is een wireflow en/of breakdown-schets gemaakt. |
-| | Browser technologies onderzoeken en implementeren als enhancement. | Toegankelijkheid: de user experience is goed. |
-| _Web Design_ | Leren hoe je principles in een ontwerp kan toepassen. | Student kan uitleggen wat (interface)(design) principles zijn |
-| | Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp. _(samen met Stan)_ | Er zijn verschillende tests gedaan en verwerkt om het ontwerp te verbeteren. |
-| _Performance Matters_ | Je begrijpt hoe een Service Worker werkt en kan deze in jouw applicatie op een nuttige wijze implementeren _(samen met Stan)_  | Er is een service worker geimplementeerd. Enkele statische bestanden worden gecached en geserveerd door de service worker. |
-| _CSS to the rescue(bonus)_ | The student understands the interactive parts of CSS. | Is interactivity enhanced within a given CSS scope?. |
 
 ## Casus
 Als opdrachtgever heb ik voor de OBA gekozen. De opdrachtbeschrijving van de OBA luidde als volgt:
@@ -168,7 +156,7 @@ Bestaande berichten van eerdere gebruikers moeten kunnen worden getoond
 Gebruikers maken zichzelf kenbaar door een foto te uploaden en een naam te definieren. Deze worden doormiddel van een sessie en cookies tijdelijk opgeslagen.
 
 
-
+## Proeduct biografie
 
 ## Week 1
 ###### Maandag 3/6/'19
@@ -244,3 +232,88 @@ Dit was eigenlijk een redelijk onverwachte draai en dit zorgde voor een bak aan 
 Vandaag was Stan er weer en kon ik hem het (slechte) nieuws vertellen. Veel tijd om er over te hebben was er niet, want de volgende dag stond er alweer een meeting met Mark op het programma.
 
 Na wat gebrainstormd te hebben heb ik me bezig gehouden met het herontwerp van de flow van de app.  
+
+## Week 3
+###### Donderdag 20/6/'19
+Ik had mijn voortgang gesprek met Koop. Hij heeft met een kritisch ook gekeken naar wat we aan het doen waren. Zijn main feedbackpunt was: Je moet de gebruiker meer sturen. De applicatie was naar zijn mening nog te vrij en we lieten de gebruiker nog te veel 'zwemmen'. Hier zijn we op gaan ittereren.
+
+###### Vrijdag 21/6/'19
+Er werd duidelijk dat het ontwerp wat er nu stond eigenlijk helemaal niet werkte en erg lelijk was. Dit kwam omdat ik te veel de stijl van de OBA wilde aanhouden, erg inconsistent dus. Er moest dus snel geschakeld worden om er binnen korte tijd iets echt leuks van te maken.
+
+## Week 4
+###### Maandag 24/6/'19
+Begin van de deadline week. Er waren nog flink wat punten die op de i gezet moesten worden en daarom hadden we weer een feedback sessie met Mark ingepland zodat hij zijn licht nogmaals op onze voorgang kon laten schijnen. Zijn hoofdpunten waren: Is het nog mogelijk binnen de tijd de OBA-api toe te voegen? Ons antwoord was een voorzichtige 'ja'. Daarnaast hadden we het over de kleine dingen, zoals bijvoorbeeld het aanpassen van de placeholders.
+
+###### Dinsdag 25/6/'19
+Vandaag hadden we een feedbackgesprek met onze coach Janno. Hij vond dat de core functionaliteit al goed stond en werkte, alleen over het design was hij nog niet echt te spreken. Hier moesten we echt aandacht aan besteden, hij gaf nog een suggestie om de zoekfunctie een andere achtergrond kleur te geven om deze zo af te bakenen van de rest. De tijd begon te dringen.
+
+Deze dag vond er ook een doorbraak plaats in het design. Er werden subtiele kleuren aan de post toegevoegd zodat er duidelijk werd welke post bij welke categorie hoorde. Dit gaf een speels gevoel en het zag er ook goed uit.
+
+###### Donderdag 27/6/'19
+<strong>Deadline day</strong> Na 4 weken gezwoegd te hebben was het moment dan eindelijk daar. De beoordeling. Omdat wij nog een week langer hadden omdat we een week later begonnen waren, zagen wij deze dag meer als een feedback moment. En over wat we hoorde waren we absoluut niet ontevreden! Als eerste waren de leraren erg te spreken over onze samenwerking en onze voortgang. Stan komt van een andere opleiding en ik zat 2 maanden geleden nog met mijn handen in mijn haar omdat ik in de tijd dat ik weg geweest ben niet genoeg stappen had gemaakt. En dan dit product neerzetten! Daar waren de leraren louter positief over. Dan over de stijling, er moest consistenter te werk worden gegaan. Nergens hoofdletters gebruiken betekend ook echt nergens hoofdletters gebruiken. `margins` en `paddings` moeten bij bepaalde elementen het zelfde zijn etc. En dan nog de reflectie op de leerdoelen. Omdat wij dit toch als een feedback moment zagen, hebben we ons niet bekommerd om de reflectie, dus die moest ook nog gemaakt worden.
+Al met al waren we niet ontevreden.
+
+## Week 5
+###### Maandag 1/7/'19
+Vandaag hadden ween flow review met Koop. Hij had goede feedback op onze flow zoals bijvoorbeeld het toevoegen van een sticky header. Of bijvoorbeeld het verkleinen van de maker van de post omdat deze op dit moment veel te belangrijk gemaakt werd. Ook pleitte hij voor het feit dat de navigatie het eerste moest zijn wat de gebruiker zou zien. Ik heb daarna geittereerd op een aantal punten, en ik moet zeggen dat de uitkomst verbluffend is. Het loopt veel lekkerder.
+
+## Reflectie
+Ik heb dit project als zeer leuk en leerzaam ervaren. Je gaat in 5 weken van een idee op papier naar een echt werkend product, het proces wat daar tussen in ontbrand is magisch, stressvol, af en toe vervelend maar vooral erg gaaf om mee bezig te zijn.
+
+Omdat ik mij voornamelijk met het design bezig heb gehouden, ben ik mezelf op een groot punt tegengekomen: <strong>Consistentie.</strong> Omdat ik in het begin niet consistent te werk ging, leverde mij dat later in het project weer extra werk op. Dit is natuurlijk niet erg, maar als ik iets meer op de details had gelet had het misschien in een keer goed gegaan. Dit is een belangrijk leerpunt voor mij geweest.
+
+Daarnaast ben ik er ook echt achter gekomen dat ik mijzelf een CSS framework moet gaan aanleren en mijn CSS modulair moet gaan opbouwen. Dit scheelt onnodige regels code en veel tijd.
+
+Wat ik als erg leuk heb ervaren zijn de itteraties die we samen met Koop hebben besproken. Ik vind het machtig om te zien wat voor effect kleine itteraties op de flow van een applicatie kunnen hebben.
+
+Ik heb ook met enorm veel plezier gewerkt aan de kleine scriptjes die ik geschreven heb voor bijvoorbeeld het uitklappen van de navigatiebalk, het werkend maken van de zoekfunctie op het dashboard, het toevoegen van reacties onder een post en het tellen van de reacties onder een post. Het geeft mij persoonlijk veel voldoening dat ik dit voor elkaar heb gekregen.
+
+###### Reflectie leerdoelen
+| Vak | Doel   | Behaald |
+| ------ | ------ | ------ |
+| _WAFS_ | 1.  <strong> De code bevat geen syntaxfouten en is netjes opgemaakt| ✅ |
+|| 2. <strong>Data ophalen, manipuleren en tonen. | 🚫 |
+<details>
+  <summary>Beschrijving</summary>
+  <strong>1.</strong> Omdat ik nu al een tijdje codeer hecht ik er waarde aan dat de code geen syntaxfouten bevat en netjes is opgemaakt. Dit is goed gelukt en ik heb echt gevoel dat ik mijn manier van code schrijven naar een hoger plan aan het tillen ben.
+
+  <strong>2.</strong> Dit doel heb ik door tijdgebrek helaas niet weten te behalen. Er komt na de vakantie waarschijnlijk wel een vervolg op dit project waarin ik dit doel waarschijnlijk wel kan bewerkstelligen.
+</details>
+
+| Vak | Doel   | Behaald |
+| ------ | ------ |
+| _GitHub_ | 1. <strong> Leren hoe optimaal samen te werken aan een project op GitHub. | ✅ |
+<details>
+  <summary>Beschrijving</summary>
+  <strong>1.</strong> Solo kon ik al goed met GitHub overweg, maar ik had nog nooit samen aan een project op GitHub gewerkt.
+  Na wat tutorials op YouTube te hebben gevolgd ging het eigenlijk vrij smooth. Als we aanpassingen wilde doorvoeren deden we dat altijd op een nieuwe branch. We hebben daarom ook geen grote merge conflicts gehad.
+</details>
+
+
+| Vak | Doel   | Behaald |
+| ------ | ------ |
+| _CSS To The Rescue_ |1. <strong> Mooie, vloeiende en nuttige transitions maken. | ➖ |
+| | 2. <strong>Je kan laten zien dat CSS gebruikt kan worden voor meer dan het stijlen van een pagina.| ✅ |
+<details >
+<summary>Beschrijving</summary>
+<strong>1.</strong> Hier ben ik gematigd tevreden over. Als ik nog iets meer tijd zou hebben zou ik dit doel wel behaald hebben. Sommige transitions lopen naar mijn idee nog niet lekker genoeg. Daarbij komt dat ik ook nog wel moeite heb met een transition te plaatsen op een element dat bijvoorbeeld verwijderd of op `display: none` gezet wordt. Dit gaat nog te statisch.
+<strong>2.</strong> CSS kan meer dan alleen stijlen, dit heb ik bijvoorbeeld laten zien bij het uitklappen van het menu, of bij het animeren van het + tekentje, wat na een klik een X teken wordt.
+</details>
+
+| Vak | Doel   | Behaald |
+| ------ | ------ |
+| _Web Design_ | 1. <strong> Een functioneel EN mooi design maken. | ✅ |
+|| 2. <strong> Leren hoe je principles in een ontwerp kan toepassen.| ✅ |
+<details>
+  <summary>Beschrijving</summary>
+  <strong>1.</strong>Zoals ik eerder al in mijn reflectie beschreef moet ik consistenter worden als het op de details aankomt. Elementen die met elkaar in verband staan moeten de zelfde `padding` en `margin` hebben. Ik denk dat het mij ook helpt als ik in de toekomst mij CSS modulair opzet en hiermee efficienter aan de slag ga. Desondanks denk ik dat er een functioneel EN mooi design staat waarop nog volop geittereerd kan worden.
+  <strong>2.</strong> Het is schier onmogelijk om alle principles toe te voegen in je design, maar een aantal is mij zeker gelukt. Bijvoorbeel: <strong>One primary action per screen</strong> bij het genereren van het bericht wordt je eerst gevraagd een titel en de inhoud te creeeren en daarna wordt je gevraagd jezelf kenbaar te maken.
+</details>
+
+| Vak | Doel   | Behaald |
+| ------ | ------ |
+| _Real Time Web_ | 1. <strong> Een database implementeren en de syntax begrijpen. | ➖ |
+<details>
+  <summary>Beschrijving</summary>
+  <strong>1.</strong> Stan Ooms, waar ik mee samen gewerkt heb, had al gedegen kennis van het gebruik van een database. Deze heeft hij mij op een beknopte manier uitgelegd. Het is nu aan mij om hier in de toekomst verder in te duiken zodat ik er later gebruik van kan maken.
+</details>
