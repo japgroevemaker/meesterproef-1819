@@ -281,7 +281,7 @@ Ik heb ook met enorm veel plezier gewerkt aan de kleine scriptjes die ik geschre
 </details>
 
 | Vak | Doel   | Behaald |
-| ------ | ------ |
+| ------ | ------ | ----- |
 | _GitHub_ | 1. <strong> Leren hoe optimaal samen te werken aan een project op GitHub. | ✅ |
 <details>
   <summary>Beschrijving</summary>
@@ -291,7 +291,7 @@ Ik heb ook met enorm veel plezier gewerkt aan de kleine scriptjes die ik geschre
 
 
 | Vak | Doel   | Behaald |
-| ------ | ------ |
+| ------ | ------ | ----- |
 | _CSS To The Rescue_ |1. <strong> Mooie, vloeiende en nuttige transitions maken. | ➖ |
 | | 2. <strong>Je kan laten zien dat CSS gebruikt kan worden voor meer dan het stijlen van een pagina.| ✅ |
 <details >
@@ -301,7 +301,7 @@ Ik heb ook met enorm veel plezier gewerkt aan de kleine scriptjes die ik geschre
 </details>
 
 | Vak | Doel   | Behaald |
-| ------ | ------ |
+| ------ | ------ | ----- |
 | _Web Design_ | 1. <strong> Een functioneel EN mooi design maken. | ✅ |
 || 2. <strong> Leren hoe je principles in een ontwerp kan toepassen.| ✅ |
 <details>
@@ -311,7 +311,7 @@ Ik heb ook met enorm veel plezier gewerkt aan de kleine scriptjes die ik geschre
 </details>
 
 | Vak | Doel   | Behaald |
-| ------ | ------ |
+| ------ | ------ | ----- |
 | _Real Time Web_ | 1. <strong> Een database implementeren en de syntax begrijpen. | ➖ |
 <details>
   <summary>Beschrijving</summary>
