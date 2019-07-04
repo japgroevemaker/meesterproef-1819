@@ -269,6 +269,13 @@ Wat ik als erg leuk heb ervaren zijn de itteraties die we samen met Koop hebben 
 Ik heb ook met enorm veel plezier gewerkt aan de kleine scriptjes die ik geschreven heb voor bijvoorbeeld het uitklappen van de navigatiebalk, het werkend maken van de zoekfunctie op het dashboard, het toevoegen van reacties onder een post en het tellen van de reacties onder een post. Het geeft mij persoonlijk veel voldoening dat ik dit voor elkaar heb gekregen.
 
 ###### Reflectie leerdoelen
+
+✅  <strong>Behaald</strong>
+
+➖ <strong>Deels behaald</strong>
+
+🚫 <strong>Niet behaald</strong>
+
 | Vak | Doel   | Behaald |
 | ------ | ------ | ------ |
 | _WAFS_ | 1.  <strong> De code bevat geen syntaxfouten en is netjes opgemaakt| ✅ |
