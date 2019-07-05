@@ -232,7 +232,8 @@ Dit was eigenlijk een redelijk onverwachte draai en dit zorgde voor een bak aan 
 ###### Woensdag 12/6/'19
 Vandaag was Stan er weer en kon ik hem het (slechte) nieuws vertellen. Veel tijd om er over te hebben was er niet, want de volgende dag stond er alweer een meeting met Mark op het programma.
 
-Na wat gebrainstormd te hebben heb ik me bezig gehouden met het herontwerp van de flow van de app.  
+Na wat gebrainstormd te hebben heb ik me bezig gehouden met het herontwerp van de flow van de app.
+<img src="https://github.com/japgroevemaker/meesterproef-1819/blob/master/images/IMG_20190603_123145.jpg" width="100%">  
 
 ## Week 3
 ###### Donderdag 20/6/'19
@@ -253,6 +254,7 @@ Deze dag vond er ook een doorbraak plaats in het design. Er werden subtiele kleu
 ###### Donderdag 27/6/'19
 <strong>Deadline day</strong> Na 4 weken gezwoegd te hebben was het moment dan eindelijk daar. De beoordeling. Omdat wij nog een week langer hadden omdat we een week later begonnen waren, zagen wij deze dag meer als een feedback moment. En over wat we hoorde waren we absoluut niet ontevreden! Als eerste waren de leraren erg te spreken over onze samenwerking en onze voortgang. Stan komt van een andere opleiding en ik zat 2 maanden geleden nog met mijn handen in mijn haar omdat ik in de tijd dat ik weg geweest ben niet genoeg stappen had gemaakt. En dan dit product neerzetten! Daar waren de leraren louter positief over. Dan over de stijling, er moest consistenter te werk worden gegaan. Nergens hoofdletters gebruiken betekend ook echt nergens hoofdletters gebruiken. `margins` en `paddings` moeten bij bepaalde elementen het zelfde zijn etc. En dan nog de reflectie op de leerdoelen. Omdat wij dit toch als een feedback moment zagen, hebben we ons niet bekommerd om de reflectie, dus die moest ook nog gemaakt worden.
 Al met al waren we niet ontevreden.
+<img src="https://github.com/japgroevemaker/meesterproef-1819/blob/master/images/IMG_20190627_153259.jpg" width="100%">
 
 ## Week 5
 ###### Maandag 1/7/'19
