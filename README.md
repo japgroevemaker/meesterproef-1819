@@ -197,6 +197,7 @@ Het is nu voor de gebruiker zaak om te wachten totdat er iemand op zijn of haar 
 Vervolgens zijn we de basis elementen gaan opzetten. We hebben een test repo aangemaakt om uit te proberen hoe het nou is om samen aan een project op GitHub te werken. Dit bleek vrij simpel te zijn. Daarna heb ik een Node server opgezet en zijn we taken gaan verdelen in GitHub projects.
 
 Die dag ben ik ook gestart met het maken van een prototype via Adobe XD om ons aangescherpt concept dat we donderdag moesten verdedigen zo visueel mogelijk te maken.
+<img src="https://github.com/japgroevemaker/meesterproef-1819/blob/master/images/IMG_20190529_104919.jpg" width="100%">
 
 
 ###### Donderdag 6/6/'19
